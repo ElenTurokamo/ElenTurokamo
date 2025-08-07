@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there! 🌻
+I'm [Elen](https://www.instagram.com/_lovelycoffee_/), a solo developer from Kazakhstan.
+It's very fun to learn new, try not ordinary solutions and just write working code.
+Currently I'm working on my first ever game with code name ["Silent Library"](https://github.com/ElenTurokamo/Silent-Library). It's about farming, adventures, secrets and more. I'm also learning how to draw sprites, how to use unity, learning C# and trying my best.
+
+##Fun facts:
+- I love photography and I can see beauty in EVERYTHING.
+- I can't live without 3 things:
+1. Coffee
+2. Trainings
+3. Games
+- Omniscent Reader - is the my favourite book.
 
 <!--
 **ElenTurokamo/ElenTurokamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
