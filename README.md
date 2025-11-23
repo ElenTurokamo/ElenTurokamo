@@ -1,4 +1,4 @@
-## Hi there! 🌘
+## Hi there! 👾
 I'm [Elen](https://www.instagram.com/_lovelycoffee_/), a solo developer from Kazakhstan.
 It's very fun to learn new, try not ordinary solutions and just write working code.
 Currently I'm working on my second attempt making a really fun game. It's code name for now is [Wildhunt Chaos](https://github.com/ElenTurokamo/Wildhunt-chaos). I always loved the way arcade ganes looked like and I got idea to make one by my own. It's a shoot 'em up with updated graphics, new, cool enemies, challenges and just an entertaining game.
