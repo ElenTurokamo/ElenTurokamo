@@ -1,9 +1,14 @@
-## Hi there! 👾
-I'm [Elen](https://www.instagram.com/_lovelycoffee_/), a solo developer from Kazakhstan.
-It's very fun to learn new, try not ordinary solutions and just write working code.
-Currently I'm working on my second attempt making a really fun game. It's code name for now is [Wildhunt Chaos](https://github.com/ElenTurokamo/Wildhunt-chaos). I always loved the way arcade games looked like and I got an idea to make one by my own. It's a shoot'em up with updated graphics, new, cool enemies, challenges and just an entertaining gameplay.
-Release is planned in January 2026th.
+Hi there 👋
 
+I'm Elen, a programmer and solo developer from Kazakhstan.
+
+I focus on building things that actually work and scale, not just prototypes for show. I care about understanding systems end-to-end: architecture, data flow, edge cases, and what will break later if it’s done poorly now. Refactoring and rethinking solutions is part of my normal workflow, not a failure.
+
+Right now I’m actively working on [Deus Weather Bot](https://github.com/ElenTurokamo/Deus-Weather) —
+a weather bot with a clean backend, database-driven logic, and a strong focus on structure, reliability, and future extensibility. It’s not just “get data and print it”, but a project where I deliberately practice proper architecture and long-term maintainability.
+
+I constantly learn by building, breaking, fixing, and rebuilding systems until they make sense.
+If something feels fragile or unclear — I won’t leave it that way.
 <!--
 **ElenTurokamo/ElenTurokamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
