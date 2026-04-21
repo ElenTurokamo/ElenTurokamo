@@ -7,7 +7,7 @@
 ╚═══════════════════════════════════════════╝
 ```
 
-# Hey, I'm Elen 👾
+# Hey, I'm Elen 💤
 
 *Independent developer · Relentless climber*
 
