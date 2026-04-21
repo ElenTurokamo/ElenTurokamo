@@ -1,25 +1,57 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-I'm Elen, a programmer and solo developer from Kazakhstan.
+```
+╔═══════════════════════════════════════════╗
+║   climbing  ·  falling  ·  climbing again ║
+╚═══════════════════════════════════════════╝
+```
 
-I focus on building things that actually work and scale, not just prototypes for show. I care about understanding systems end-to-end: architecture, data flow, edge cases, and what will break later if it’s done poorly now. Refactoring and rethinking solutions is part of my normal workflow, not a failure.
+# Hey, I'm Elen 👾
 
-Right now I’m actively working on [Deus Weather Bot](https://github.com/ElenTurokamo/Deus-Weather) —
-a weather bot with a clean backend, database-driven logic, and a strong focus on structure, reliability, and future extensibility. It’s not just “get data and print it”, but a project where I deliberately practice proper architecture and long-term maintainability.
+*Independent developer · Relentless climber*
 
-I constantly learn by building, breaking, fixing, and rebuilding systems until they make sense.
-If something feels fragile or unclear — I won’t leave it that way.
-<!--
-**ElenTurokamo/ElenTurokamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Every new project is a step into an uncharted abyss,*
+> *and every completed one is the beginning of a new stage."*
+
+---
+
+## `> whoami`
+
+I'm on track to enter the **global arena** — preparing to be a specialist sought after anywhere, by any company.
+
+I want to be the one who **sees a solution to a problem that won't arise for years.**
+
+---
+
+## `> philosophy.txt`
+
+```
+My main goal         →  self-improvement
+Every new project    →  a step into the unknown
+Every finished one   →  the start of something new
+```
+
+---
+
+## `> manifesto`
+
+I won't stop.
+
+I will climb, fall, climb again — fall again and even harder — get up and climb again.
+
+I will turn my **aspiration** into an **obsession** and ascend to new, previously unseen heights.
+
+---
+
+<div align="center">
+
+*There's a lot more to say — but actions speak louder.*
+
+`[ always building · always learning · never stopping ]`
+
+</div>
